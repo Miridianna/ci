@@ -28,4 +28,3 @@ public class MaxServiceTest {
         Assertions.assertEquals(expected, actual);
     }
 }
-}
